@@ -1,4 +1,4 @@
-HELP.md
+coal-yard-website/HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
